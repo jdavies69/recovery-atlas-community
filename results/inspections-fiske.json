@@ -1,0 +1,118 @@
+{
+  "job": "inspections-fiske",
+  "through": "2026-11-24",
+  "homes": [
+    {
+      "address": "1110 N FISKE ST",
+      "apn": "4423004003",
+      "permit": "25010-10000-05284",
+      "source": "https://data.lacity.org/resource/9w5z-rg2h.json?permit=25010+10000+05284&%24select=address%2Cpermit%2Cinspection_date%2Cinspection%2Cinspection_result&%24limit=1000&%24order=inspection_date%2Cinspection%2Cinspection_result&%24where=inspection_date+%3C+%272026-11-25T00%3A00%3A00%27",
+      "events": [
+        {
+          "date": "2026-07-17",
+          "inspection": "Excavation/Setback/Form/Re-Bar",
+          "result": "Insp Scheduled"
+        },
+        {
+          "date": "2026-07-21",
+          "inspection": "Excavation/Setback/Form/Re-Bar",
+          "result": "Conditional Approval"
+        },
+        {
+          "date": "2026-07-21",
+          "inspection": "Final",
+          "result": "Corrections Issued"
+        },
+        {
+          "date": "2026-08-14",
+          "inspection": "Sewer",
+          "result": "Insp Cancelled"
+        },
+        {
+          "date": "2026-08-14",
+          "inspection": "Sewer",
+          "result": "Insp Cancelled"
+        },
+        {
+          "date": "2026-08-14",
+          "inspection": "Sewer",
+          "result": "Insp Cancelled"
+        },
+        {
+          "date": "2026-08-14",
+          "inspection": "Sewer",
+          "result": "Insp Cancelled"
+        },
+        {
+          "date": "2026-08-14",
+          "inspection": "Underground Mechanical",
+          "result": "Insp Cancelled"
+        },
+        {
+          "date": "2026-08-14",
+          "inspection": "Underground Mechanical",
+          "result": "Insp Cancelled"
+        },
+        {
+          "date": "2026-08-14",
+          "inspection": "Underground Mechanical",
+          "result": "Insp Cancelled"
+        },
+        {
+          "date": "2026-08-14",
+          "inspection": "Underground Mechanical",
+          "result": "Insp Cancelled"
+        },
+        {
+          "date": "2026-10-14",
+          "inspection": "Deputy Drilled-In Anchors",
+          "result": "Insp Scheduled"
+        },
+        {
+          "date": "2026-10-19",
+          "inspection": "Footing/Foundation/Slab",
+          "result": "Corrections Issued"
+        },
+        {
+          "date": "2026-11-06",
+          "inspection": "Floor/Roof Diaphrgm/Shear Wall",
+          "result": "Partial Approval"
+        },
+        {
+          "date": "2026-11-06",
+          "inspection": "Footing/Foundation/Slab",
+          "result": "Approved"
+        },
+        {
+          "date": "2026-11-06",
+          "inspection": "PLUMBING-Rough",
+          "result": "Partial Approval"
+        },
+        {
+          "date": "2026-11-06",
+          "inspection": "Underground Mechanical",
+          "result": "Insp Cancelled"
+        },
+        {
+          "date": "2026-11-13",
+          "inspection": "Floor/Roof Diaphrgm/Shear Wall",
+          "result": "No Access for Inspection"
+        }
+      ]
+    },
+    {
+      "address": "1130 N FISKE ST",
+      "apn": "4423004007",
+      "permit": "26010-10000-01667",
+      "source": "https://data.lacity.org/resource/9w5z-rg2h.json?permit=26010+10000+01667&%24select=address%2Cpermit%2Cinspection_date%2Cinspection%2Cinspection_result&%24limit=1000&%24order=inspection_date%2Cinspection%2Cinspection_result&%24where=inspection_date+%3C+%272026-11-25T00%3A00%3A00%27",
+      "events": []
+    },
+    {
+      "address": "1147 N FISKE ST",
+      "apn": "4423003025",
+      "permit": "26010-30000-02226",
+      "source": "https://data.lacity.org/resource/9w5z-rg2h.json?permit=26010+30000+02226&%24select=address%2Cpermit%2Cinspection_date%2Cinspection%2Cinspection_result&%24limit=1000&%24order=inspection_date%2Cinspection%2Cinspection_result&%24where=inspection_date+%3C+%272026-11-25T00%3A00%3A00%27",
+      "events": []
+    }
+  ]
+}
