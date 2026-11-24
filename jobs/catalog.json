@@ -1,0 +1,118 @@
+[
+  {
+    "id": "inspections-fiske",
+    "title": "Verify dwelling inspections on Fiske Street",
+    "type": "inspection",
+    "issue": 1,
+    "homes": [
+      {
+        "address": "1110 N FISKE ST",
+        "apn": "4423004003",
+        "permit": "25010-10000-05284"
+      },
+      {
+        "address": "1130 N FISKE ST",
+        "apn": "4423004007",
+        "permit": "26010-10000-01667"
+      },
+      {
+        "address": "1147 N FISKE ST",
+        "apn": "4423003025",
+        "permit": "26010-30000-02226"
+      }
+    ]
+  },
+  {
+    "id": "inspections-embury",
+    "title": "Verify dwelling inspections on Embury Street",
+    "type": "inspection",
+    "issue": 2,
+    "homes": [
+      {
+        "address": "935 N EMBURY ST",
+        "apn": "4423017017",
+        "permit": "25010-10000-06460"
+      },
+      {
+        "address": "1015 N EMBURY ST",
+        "apn": "4423015023",
+        "permit": "25010-10000-03074"
+      },
+      {
+        "address": "1046 N EMBURY ST",
+        "apn": "4423014012",
+        "permit": "25010-30000-02794"
+      }
+    ]
+  },
+  {
+    "id": "inspections-galloway",
+    "title": "Verify dwelling inspections on Galloway Street",
+    "type": "inspection",
+    "issue": 3,
+    "homes": [
+      {
+        "address": "840 N GALLOWAY ST",
+        "apn": "4423027010",
+        "permit": "26010-10000-02269"
+      },
+      {
+        "address": "842 N GALLOWAY ST",
+        "apn": "4423027011",
+        "permit": "25010-30000-04912"
+      },
+      {
+        "address": "1140 N GALLOWAY ST",
+        "apn": "4423005009",
+        "permit": "26010-10000-04560"
+      }
+    ]
+  },
+  {
+    "id": "inspections-hartzell",
+    "title": "Verify dwelling inspections on Hartzell Street",
+    "type": "inspection",
+    "issue": 4,
+    "homes": [
+      {
+        "address": "863 N HARTZELL ST",
+        "apn": "4423027024",
+        "permit": "25010-10000-03000"
+      },
+      {
+        "address": "1047 N HARTZELL ST",
+        "apn": "4423012018",
+        "permit": "25010-20000-03053"
+      }
+    ]
+  },
+  {
+    "id": "inspections-iliff",
+    "title": "Verify dwelling inspections on Iliff Street",
+    "type": "inspection",
+    "issue": 5,
+    "homes": [
+      {
+        "address": "761 N ILIFF ST",
+        "apn": "4423029032",
+        "permit": "25010-10000-04413"
+      },
+      {
+        "address": "1027 N ILIFF ST",
+        "apn": "4423011027",
+        "permit": "25010-30000-05902"
+      },
+      {
+        "address": "1143 N ILIFF ST",
+        "apn": "4423006017",
+        "permit": "25010-20000-03353"
+      }
+    ]
+  },
+  {
+    "id": "fiske-marine-layer",
+    "title": "Render the Fiske corner in coastal morning fog",
+    "type": "image",
+    "issue": 6
+  }
+]
